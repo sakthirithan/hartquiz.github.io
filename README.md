@@ -92,7 +92,7 @@ This separation improves **maintainability and scalability**.
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/sakthirithan/hart-quiz.github.io.git
+   git clone https://github.com/sakthirithan/hart-quiz.github.io
    ```
 
 2. Open the project folder
