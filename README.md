@@ -100,7 +100,7 @@ This separation improves **maintainability and scalability**.
 3. Run using **Live Server** (recommended for ES modules)
 
    * VS Code → Right click `index.html` → *Open with Live Server*
-   * https://sakthirithan.github.io/hartquiz.github.io.git*
+   * https://sakthirithan.github.io/hartquiz.github.io*
 
 ---
 
